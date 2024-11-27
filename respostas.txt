@@ -13,3 +13,5 @@ Automático - é processado apenas pelo software (através de um algoritmo)
 
 Manual - é necessária ação do utilizador para perceber as mudanças a aplicar, é usada
 principalmente quando existem conflitos que o método automático não consegue resolver
+
+não sei a resposta
