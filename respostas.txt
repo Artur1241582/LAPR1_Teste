@@ -4,3 +4,12 @@ Confiança: Repositórios remotos ajudam na recuperação de imponderáveis. Tes
 Working Tree ou Working Directory
 Staging Area ou Index
 Repository ou .git directory
+
+
+Merge é uma operação fundamental de junção de 2 branches que reconcilia as várias
+alterações feitas numa coleção de ficheiros
+
+Automático - é processado apenas pelo software (através de um algoritmo)
+
+Manual - é necessária ação do utilizador para perceber as mudanças a aplicar, é usada
+principalmente quando existem conflitos que o método automático não consegue resolver
