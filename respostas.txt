@@ -1,0 +1,2 @@
+Organização: visualização completa do ciclo de vida de cada ficheiro, desde sua criação até o momento atual.
+Confiança: Repositórios remotos ajudam na recuperação de imponderáveis. Testar novas ideias sem danificar a linha base do desenvolvimento
