@@ -15,3 +15,6 @@ Manual - é necessária ação do utilizador para perceber as mudanças a aplica
 principalmente quando existem conflitos que o método automático não consegue resolver
 
 não sei a resposta
+
+Comando git log --follow meu_script.py: Mostra os commits que alteraram um ficheiro particular. Isso segue o ficheiro,
+independentemente da renomeação do mesmo.
